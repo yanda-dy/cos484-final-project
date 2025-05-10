@@ -4,4 +4,4 @@
 
 **Acknowledgements:** We would like to express our gratitude to our COS484 professors—Danqi Chen, Tri Dao, and Vikram Ramaswamy—for their support and encouragement throughout the semester. We are also sincerely thankful to all the TAs for their assistance, especially for providing detailed and constructive feedback on our project proposal, which helped us refine our project direction. Finally, we would like to thank the Department of Computer Science at Princeton for providing the necessary funding to run our experiments via API access.
 
-**Final project for COS484**
+**Final project for COS484: Natural Language Processing**
